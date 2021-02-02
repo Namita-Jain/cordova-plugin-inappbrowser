@@ -86,6 +86,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.StringTokenizer;
+import src/android/InAppBrowserViewUtil.kt;
 
 @SuppressLint("SetJavaScriptEnabled")
 public class InAppBrowser extends CordovaPlugin {
